@@ -7,9 +7,11 @@ pdf 에서 text 추출후에 이것을 요약하는 프로그램.
 
 
 ``` pip install pdfminer.six``` 
-git clone https://github.com/pytorch/fairseq
-cd fairseq
-CFLAGS="-stdlib=libc++" pip install --editable ./``` 
+
+
+```git clone https://github.com/pytorch/fairseq```
+```cd fairseq```
+```CFLAGS="-stdlib=libc++" pip install --editable ./``` 
 
 
 
