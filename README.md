@@ -21,6 +21,9 @@ pdf 에서 text 추출후에 이것을 요약하는 프로그램.
 
 ```python V_07.py```
 
+
+
+
 ### Credit
 
 BART: Denoising Sequence-to-Sequence Pre-training for Natural Language Generation, Translation, and Comprehension :https://github.com/facebookresearch/fairseq/blob/main/examples/bart/README.md
