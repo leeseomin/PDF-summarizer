@@ -29,6 +29,18 @@ fairseq install <br/>
 
  <br/><br/> 
  
+ 
+### Key Features
+
+
+1.Extract text from PDF and save it as a different name.
+
+2.Extract text from PDF, summarize and save as a different name.
+
+
+ 
+ 
+ 
 ### Run Code 
 
 ```python V_072.py```
