@@ -1,7 +1,8 @@
 # PDF-summarizer
 
 pdf 에서 text 추출후에 이것을 요약하는 프로그램.
-A program that extracts text from a PDF and summarizes it afterwards.
+A program that extracts text from a PDF and summarizes it afterwards. :
+It is a summary process that divides the given text into 9 parts, summarizes each part, and then combines them. It is suitable for paper summarization.
 
 
   <br/> <br/><br/> 
