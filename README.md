@@ -33,10 +33,14 @@ fairseq install <br/>
 ### Key Features
 
 
-1.Extract text from PDF and save it as a different name.
+1.Extract text from PDF and save as a different name txt file.
 
-2.Extract text from PDF, summarize and save as a different name.
+2.Extract text from PDF, summarize and save as a different name txt file.
 
+
+1. PDF에서 텍스트를 추출하여 다른 이름의 txt 파일로 저장합니다.
+
+2. PDF에서 텍스트를 추출하고 요약하여 다른 이름의 txt 파일로 저장합니다.
 
  
  
