@@ -40,6 +40,12 @@ fairseq install <br/>
   <br/>
  <br/><br/> 
 
+
+###  To Do
+
+ADD the T5X algorithm  (https://github.com/google-research/t5x)
+
+
 ### Credit
 
 BART: Denoising Sequence-to-Sequence Pre-training for Natural Language Generation, Translation, and Comprehension :https://github.com/facebookresearch/fairseq/blob/main/examples/bart/README.md
