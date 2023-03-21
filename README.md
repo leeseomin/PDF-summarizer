@@ -11,7 +11,6 @@ It is a summary process that divides the given text into 9 parts, summarizes eac
   <br/> <br/><br/> 
 ###  Dependency (Tested on an M1 Mac) : cpu version
 
-pytorch  install <br/>
 
 ``` conda install pytorch torchvision torchaudio -c pytorch ```
 
