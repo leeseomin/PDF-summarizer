@@ -2,7 +2,10 @@
 
 pdf 에서 text 추출후에 이것을 요약하는 프로그램.  논문요약등에 활용가능. <br/> 
 A program that extracts text from a PDF and summarizes it afterwards. :<br/> 
-It is a summary process that divides the given text into 9 parts, summarizes each part, and then combines them. It is suitable for paper summarization.
+It is a summary process that divides the given text into 9 parts, summarizes each part, and then combines them. 
+<br/>
+Text extraction can cover hundreds of pages. 텍스트추출은 수백페이지도 가능.
+Summarize is appropriate for papers. 텍스트요약기능은 논문등 길지않은 pdf문서들에 적합.
 <br/>  Summarization takes a bit longer to process. 요약기능은 처리시간이 다소 오래걸립니다.
 ![대표](https://github.com/leeseomin/PDF-summarizer/blob/main/pic/1.png)
 
