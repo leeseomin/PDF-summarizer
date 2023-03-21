@@ -12,6 +12,7 @@ Summarize is appropriate for papers. <br/>
 Summarization takes a bit longer to process. 
 
 <br/> 
+
 ![대표](https://github.com/leeseomin/PDF-summarizer/blob/main/pic/1.png)
 
 
