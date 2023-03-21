@@ -5,7 +5,7 @@ pdf 에서 text 추출후에 이것을 요약하는 프로그램.
 
 ###  Dependency (Tested on an M1 Mac)
 
-``` conda install pytorch torchvision torchaudio -c pytorch"
+``` conda install pytorch torchvision torchaudio -c pytorch"``` 
 
 ``` pip install pdfminer.six``` 
 
