@@ -75,6 +75,9 @@ Large PDF files produce strange results when using the text summarization functi
 
 ###  To Do
 
+
+Web app
+
 ADD the T5X algorithm  (https://github.com/google-research/t5x)
 
 
