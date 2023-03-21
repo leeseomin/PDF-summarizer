@@ -1,6 +1,8 @@
 # PDF-summarizer
 
 pdf 에서 text 추출후에 이것을 요약하는 프로그램.
+A program that extracts text from a PDF and summarizes it afterwards.
+
 
   <br/> <br/><br/> 
 ###  Dependency (Tested on an M1 Mac) : cpu version
