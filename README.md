@@ -7,11 +7,11 @@ It is a summary process that divides the given text into 9 parts, summarizes eac
 Text extraction can cover hundreds of pages. <br/>
 Summarize is appropriate for papers. 
 <br/>  Summarization takes a bit longer to process. 
-<br/>
+
 텍스트추출은 수백페이지도 가능
 텍스트요약기능은 논문등 길지않은 pdf문서들에 적합.
 요약기능은 처리시간이 다소 오래걸립니다.
-
+<br/> 
 ![대표](https://github.com/leeseomin/PDF-summarizer/blob/main/pic/1.png)
 
 
