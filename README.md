@@ -15,8 +15,9 @@ pdf 에서 text 추출후에 이것을 요약하는 프로그램.
 
 ```CFLAGS="-stdlib=libc++" pip install --editable ./``` 
 
-  <br/>
+
  <br/><br/> 
+ 
 ### Run Code 
 
 ```python V_07.py```
