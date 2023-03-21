@@ -28,6 +28,7 @@ It is a summary process that divides the given text into 9 parts, summarizes eac
 
 ```python V_071.py```
 
+![대표](https://github.com/leeseomin/PDF-summarizer/blob/main/pic/2.png)
 
 
 
