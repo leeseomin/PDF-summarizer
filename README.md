@@ -15,6 +15,10 @@ It is a summary process that divides the given text into 9 parts, summarizes eac
 
 ``` pip install pdfminer.six``` 
 
+```pip install spacy```
+
+```pip install summarizer```
+
 ```git clone https://github.com/pytorch/fairseq```
 
 ```cd fairseq```
