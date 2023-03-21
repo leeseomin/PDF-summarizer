@@ -17,7 +17,8 @@ It is a summary process that divides the given text into 9 parts, summarizes eac
 
 ```pip install spacy```
 
-fairseq install
+fairseq install <br/>
+
 ```git clone https://github.com/pytorch/fairseq```
 
 ```cd fairseq```
