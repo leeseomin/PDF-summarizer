@@ -4,6 +4,9 @@ pdf 에서 text 추출후에 이것을 요약하는 프로그램.  논문요약�
 A program that extracts text from a PDF and summarizes it afterwards. :<br/> 
 It is a summary process that divides the given text into 9 parts, summarizes each part, and then combines them. It is suitable for paper summarization.
 
+![대표](https://github.com/leeseomin/PDF-summarizer/blob/main/pic/1.png)
+
+
 
   <br/> <br/><br/> 
 ###  Dependency (Tested on an M1 Mac) : cpu version
