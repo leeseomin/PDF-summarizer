@@ -26,7 +26,7 @@ It is a summary process that divides the given text into 9 parts, summarizes eac
  
 ### Run Code 
 
-```python V_07.py```
+```python V_071.py```
 
 
 
