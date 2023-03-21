@@ -2,7 +2,7 @@
 
 pdf 에서 text 추출후에 이것을 요약하는 프로그램.
 
-
+ <br/><br/> 
 ###  Dependency (Tested on an M1 Mac) : cpu version
 
 ``` conda install pytorch torchvision torchaudio -c pytorch ```
@@ -15,14 +15,14 @@ pdf 에서 text 추출후에 이것을 요약하는 프로그램.
 
 ```CFLAGS="-stdlib=libc++" pip install --editable ./``` 
 
-
+ <br/><br/> 
 
 ### Run Code 
 
 ```python V_07.py```
 
 
-
+ <br/><br/> 
 
 ### Credit
 
