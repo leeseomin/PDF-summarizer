@@ -56,6 +56,14 @@ fairseq install <br/>
  <br/><br/> 
 
 
+
+### Limitation
+
+Large PDF files produce strange results when using the text summarization function.
+
+용량큰 pdf파일은 텍스트요약시에 이상한 결과를 배출.
+
+
 ###  To Do
 
 ADD the T5X algorithm  (https://github.com/google-research/t5x)
