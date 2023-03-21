@@ -31,7 +31,7 @@ fairseq install <br/>
  
 ### Run Code 
 
-```python V_071.py```
+```python V_072.py```
 
 ![대표](https://github.com/leeseomin/PDF-summarizer/blob/main/pic/2.png)
 
