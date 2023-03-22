@@ -27,7 +27,8 @@ Summarization takes a bit longer to process.
 
 ```pip install spacy```
 
-fairseq install 
+
+fairseq install on mac osx
 
 ```
 git clone https://github.com/pytorch/fairseq
@@ -36,6 +37,13 @@ cd fairseq
 
 CFLAGS="-stdlib=libc++" pip install --editable ./
 ``` 
+
+fairseq install 
+```
+git clone https://github.com/pytorch/fairseq
+cd fairseq
+pip install --editable ./
+```
 
 
  <br/><br/> 
