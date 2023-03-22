@@ -27,13 +27,15 @@ Summarization takes a bit longer to process.
 
 ```pip install spacy```
 
-fairseq install <br/>
+fairseq install 
 
-```git clone https://github.com/pytorch/fairseq
+```
+git clone https://github.com/pytorch/fairseq
 
 cd fairseq
 
-CFLAGS="-stdlib=libc++" pip install --editable ./``` 
+CFLAGS="-stdlib=libc++" pip install --editable ./
+``` 
 
 
  <br/><br/> 
