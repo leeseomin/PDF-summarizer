@@ -85,6 +85,7 @@ Large PDF files produce strange results when using the text summarization functi
 
 ###  To Do
 
+gpu version
 
 Web app
 
