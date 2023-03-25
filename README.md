@@ -38,7 +38,14 @@ cd fairseq
 CFLAGS="-stdlib=libc++" pip install --editable ./
 ``` 
 
-fairseq install 
+If the above installation doesn't work on Mac, try installing from conda base.
+
+fairseq install using conda 
+
+```conda install -c conda-forge fairseq```
+
+
+fairseq install from source 
 ```
 git clone https://github.com/pytorch/fairseq
 cd fairseq
