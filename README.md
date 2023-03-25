@@ -25,9 +25,9 @@ Summarization takes a bit longer to process.
 
 ```pip install pdfminer.six``` 
 
-```pip install spacy
-python -m spacy download en_core_web_sm
-```
+```pip install spacy```
+```python -m spacy download en_core_web_sm```
+
 
 
 fairseq install on mac osx
